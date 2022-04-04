@@ -2,6 +2,8 @@
 
 Internet Connected Infrared Remote for Alexa, Google Assitant, Apple Homekit (Siri) &amp; IFTTT integration
 
+![PCB Front 3D Render](media/pcb-front-3d-render.png)
+
 ## Description
 
 The Aeroh One is for the lazy people, the exhausted ones who can't be bothered to turn on their fans because they have to get out of the couch.
