@@ -1,0 +1,32 @@
+Reference(s),Value,DigiKey Part No,Manufacturer Part No,Datasheet
+C1,2u2,490-14467-1-ND,GRM21BR71E225KE11L,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR71E225KE11-01.pdf
+C2,2u2,490-14467-1-ND,GRM21BR71E225KE11L,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR71E225KE11-01.pdf
+C3,22u,490-10511-1-ND,GRM21BR61A226ME51L,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61A226ME51-01.pdf
+C4,22u,490-10511-1-ND,GRM21BR61A226ME51L,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61A226ME51-01.pdf
+C7,22u,490-10511-1-ND,GRM21BR61A226ME51L,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61A226ME51-01.pdf
+C8,100n,490-11955-1-ND,GCD21BR71H104KA01L,https://www.murata.com/-/media/webrenewal/support/library/catalog/products/capacitor/ceramiccapacitor/c03e.ashx?la=en-us&cvid=20200707014404000000
+C9,100n,490-11955-1-ND,GCD21BR71H104KA01L,https://www.murata.com/-/media/webrenewal/support/library/catalog/products/capacitor/ceramiccapacitor/c03e.ashx?la=en-us&cvid=20200707014404000000
+C10,100n,490-11955-1-ND,GCD21BR71H104KA01L,https://www.murata.com/-/media/webrenewal/support/library/catalog/products/capacitor/ceramiccapacitor/c03e.ashx?la=en-us&cvid=20200707014404000000
+C11,100n,490-11955-1-ND,GCD21BR71H104KA01L,https://www.murata.com/-/media/webrenewal/support/library/catalog/products/capacitor/ceramiccapacitor/c03e.ashx?la=en-us&cvid=20200707014404000000
+D1,LED,475-1278-1-ND,LS R976-NR-1,https://dammedia.osram.info/media/resource/hires/osram-dam-5178068/LS%20R976_EN.pdf
+D2,SK6812MINI-B-001,1528-4957-ND,4957,https://cdn-shop.adafruit.com/product-files/4957/SK6812MINI-B-001__OP0108K__REV.A0__EN.pdf
+D3,TSMP77000,TSMP77000TCT-ND,TSMP77000TT,https://www.vishay.com/docs/82478/tsmp77000.pdf
+D4,Kingbright_AA3528F3S,754-1532-1-ND,AA3528P3S,https://www.kingbrightusa.com/images/catalog/SPEC/AA3528P3S.pdf
+FB1,120R,587-1747-1-ND,FBMH2012HM121-T,https://ds.yuden.co.jp/TYCOMPAS/ut/detail?pn=LSMGA201208T121RG&u=M
+J1,USB4105-GF-A,2073-USB4105-GF-ACT-ND,USB4105-GF-A,https://gct.co/files/specs/usb4105-spec.pdf
+J2,AVR-ISP-6,1849-PR20B03VBDN-ND,PR20B03VBDN,https://media.metz-connect.com/files/171/Data_sheet_PR20BXXVBDN.PDF
+J3,ESP_Prog,1849-PR20B03VBDN-ND,PR20B03VBDN,https://media.metz-connect.com/files/171/Data_sheet_PR20BXXVBDN.PDF
+R1,5k1,311-5.10KCRCT-ND,RC0805FR-075K1L,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+R2,5k1,311-5.10KCRCT-ND,RC0805FR-075K1L,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+R3,1k,311-1.00KCRCT-ND,RC0805FR-071KL,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+R4,1k,311-1.00KCRCT-ND,RC0805FR-071KL,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+R5,1k,311-1.00KCRCT-ND,RC0805FR-071KL,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+R6,10k,311-10.0KCRCT-ND,RC0805FR-0710KL,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+R12,10k,311-10.0KCRCT-ND,RC0805FR-0710KL,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+R16,10k,311-10.0KCRCT-ND,RC0805FR-0710KL,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+R17,220R,311-220CRCT-ND,RC0805FR-07220RL,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+S1,C&K_PTS526_SK15_SMTR2_LFS,CKN12221-1-ND,PTS526 SK15 SMTR2 LFS,https://www.ckswitches.com/media/2780/pts526.pdf
+U2,USBLC6-2SC6,497-2525-1-ND,DALC208SC6,https://www.st.com/resource/en/datasheet/usblc6-2.pdf
+U3,AMS1117-3.3,AZ1117IH-3.3TRG1DICT-ND,AZ1117IH-3.3TRG1,http://www.advanced-monolithic.com/pdf/ds1117.pdf
+U4,ESP32-C3-MINI-1,1965-ESP32-C3-MINI-1-N4CT-ND,ESP32-C3-MINI-1-N4,https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf
+U5,ATtiny167-MU,ATTINY167-MU-ND,ATTINY167-MU,http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8265-8-bit-AVR-Microcontroller-tinyAVR-ATtiny87-ATtiny167_datasheet.pdf
